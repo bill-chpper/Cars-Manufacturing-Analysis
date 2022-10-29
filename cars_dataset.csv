@@ -140,7 +140,7 @@ index,price,brand,model,year,title_status,mileage,color,vin,lot,state,country,co
 138,32012,chevrolet,1500,2017,clean vehicle,46091.0,white,  3gcuksej6hg353147,167765148,michigan, usa,2 days left
 139,6800,dodge,dart,2016,clean vehicle,49033.0,black,  1c3cdffh0gd823262,167756148,michigan, usa,2 days left
 140,4260,dodge,mpv,2018,clean vehicle,33957.0,gray,  3c4pdcabxjt311007,167656471,florida, usa,16 hours left
-141,0,dodge,van,2008,salvage insurance,177948.0,orange,  2d8hn44h88r669549,167756157,utah, usa,2 days left
+141,,dodge,van,2008,salvage insurance,177948.0,orange,  2d8hn44h88r669549,167756157,utah, usa,2 days left
 142,31802,chevrolet,2500,2017,clean vehicle,19845.0,silver,  1gc1kveg3hf189737,167765152,michigan, usa,20 hours left
 143,7210,dodge,doors,2018,clean vehicle,38910.0,black,  2c3cdxct1jh233225,167656472,florida, usa,16 hours left
 144,,dodge,door,2014,salvage insurance,123660.0,silver,  1c3cdzab0en111068,167756167,utah, usa,2 days left
